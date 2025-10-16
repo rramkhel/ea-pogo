@@ -1,0 +1,67 @@
+Lead Product Manager
+Home
+Open Roles
+Role Detail
+General Information
+Locations
+: Orlando, Florida, United States of America 
+Vancouver
+Canada
+Edmonton
+Canada
+Role ID 
+210105
+Worker Type 
+Regular Employee
+Studio/Department 
+EA Mobile - Pogo
+Work Model 
+Hybrid
+Description & Requirements
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+Pogo has been the leader in online casual games since 1998. Featuring a growing library of 60+ titles spanning popular genres like Solitaire, Mahjong, Match 3, and more, Pogo exists to be the best destination for online casual games. We strive to produce high-quality HTML5-powered games with sophisticated metagames and social mechanics, all while working seamlessly across desktop, tablet and mobile. Our fans and subscribers come to Pogo for fresh content, daily challenges, great events, new games, and a live service that delivers!
+
+We are looking for a motivated Product Manager to join our Live Service team in North America. 
+
+We are looking for an experienced Product Manager to join our team and work with a team of internal stakeholders across all disciplines (art, design, engineering, production, etc.) to deliver against the Live Service roadmap while providing high value reasons for players to come and engage on Pogo every day. You will be responsible for gaining a deep understanding of Pogo player’s needs and Pogo’s key business objectives in order to plan, prioritize and deliver the right content to our players. You are a Game Product Manager and you will be accountable for the performance of the Live Service content roadmap.
+
+Key Responsibilities (What you will do)
+
+Product Strategy & Business Planning: Support development and execution of the Live Service and New Game Product roadmap, setting measurable goals and KPI targets. Build economic models and champion sustainability for long-term acquisition, engagement, and monetization.
+Data-Driven Execution: Define, monitor, and manage KPIs for Pogo’s Live Service and New Games. Design and execute A/B tests, analyze results, and run tactical initiatives to optimize the business and player experience. Lead frequent live service reviews to inform studio leadership and guide prioritization.
+Analysis & Insights: Analyze and interpret large, complex datasets to provide actionable insights and expected outcomes for new features. Lead data-informed discussions about pivots, evolutions, and next steps for the product, turning performance data into a clear narrative that guides the roadmap.
+Player & Market Expertise: Be the voice of the player and the business. Develop a deep understanding of player motivations, competitive titles, and market trends to identify opportunities. Surface competitive wins through teardowns and partner with Community and Design leads to gather and act on player feedback.
+Distributed Collaboration: Work closely with a globally distributed, cross-disciplinary team to achieve consensus and ensure flawless execution on business goals and objectives. 
+Qualifications (What you know how to do)
+
+3+ years of experience in Product Management within the game industry
+Proven ability to translate business objectives into product priorities and author clear, actionable feature specifications.
+Strong quantitative and analytical skills, with experience using data and A/B testing to inform product direction and design.
+Excellent communication and presentation skills, with the ability to articulate complex ideas and influence a wide range of technical and non-technical audiences.
+A collaborative mindset with a track record of building consensus, driving alignment, and delivering results in a globally distributed, cross-functional team.
+Experience conducting competitive analysis and product teardowns to surface industry best practices and opportunities.
+A deep understanding of the casual games space, including player motivations, market trends, and key business drivers.
+A creative and adaptive approach, with the ability to turn high-level business needs into testable hypotheses and data-driven decisions.
+Comfort and readiness to work effectively in a fully remote environment across multiple time zones.
+Nice To Have
+
+Past game development experience with concepting, development and supporting a game through Live Service.
+Past experience working on web or e commerce products
+Familiarity with data tools like SQL / Python
+COMPENSATION AND BENEFITS
+
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). 
+
+PAY RANGES
+
+* British Columbia (depending on location e.g. Vancouver vs. Victoria) *$111,600 - $152,800 CAD
+In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+
+
+
+About Electronic Arts
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.

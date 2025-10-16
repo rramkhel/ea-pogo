@@ -1,0 +1,190 @@
+EA Other Job Postings
+
+Product Manager, AI Experiences
+* 		Home Open Roles Role Detail
+
+General Information
+Locations
+* 		: Redwood City, California, United States of America Redwood City United States of America
+Role ID 
+210043
+Worker Type 
+Regular Employee
+Studio/Department 
+Other
+Work Model 
+Hybrid
+
+Description & Requirements
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+Who we are
+The future of entertainment is interactive, and our Ventures Group plays an important role in this future by building content, culture, and community that take us Beyond Gaming. We empower audiences to Play, Create, Watch, and Connect across our amazing franchises and experiences, including The Sims, Madden NFL, EA SPORTS FC, Apex Legends, and Battlefield. We're a multi-functional group, with world-class expertise in building fandom, driving interactive storytelling, and positioning our franchises at the center of the broader entertainment ecosystem
+What We're Building
+Project Air is a new kind of mobile platform — part creative stage, part storytelling tool, part social experience — powered by AI and real-time interaction. 
+We're building a space where people don't just watch or post — they create, perform, and co-invent new characters, stories, and worlds. It's expressive, emotional, and deeply interactive.
+The Role
+As Product Manager, AI Experiences, you’ll help define, prototype, and ship next-gen mobile entertainment powered by generative AI. You’ll be at the intersection of bleeding-edge technology and human creativity, building features that enable users to experience an entirely new category of entertainment.
+You’ll work closely with designers & engineers to craft end-user experiences that feel intuitive, expressive, and magical. From product strategy, to prototyping new AI experiences, to go-to-market planning, you’ll help turn ambitious ideas into delightful, real-world products.
+You’ll report to the Head of Product and be among the first PMs on the team, with enormous opportunity to shape the product and culture from the ground up. This is a hybrid role, based in Redwood Shores. 
+Responsibilities
+* Lead the development of AI-driven interactive features for key product surfaces
+* Define product requirements through user insights, prototyping, and competitive benchmarking
+* Partner with Design teams to design, prototype, and implement delightful real-time experiences
+* Collaborate with engineering on end-to-end execution: from architecture decisions to launch QA
+* Lead and execute go-to-market strategies for key product surfaces—owning product marketing initiatives, designing and optimizing growth loops, and establishing scalable systems for collecting and acting on community feedback
+* Design and run experiments (A/B tests, qualitative feedback loops) to validate hypotheses and improve core loops
+* Build benchmarks and systems to select, prompt, and evaluate models for optimal performance
+* Stay up to date on the minute-to-minute pulse of developments in the generative media space to help us move fast, smart, and responsibly
+* Contribute to the long-term product vision, roadmap, and team rituals 
+Qualifications
+* 4+ years in product management, with experience shipping consumer mobile products in genAI and social entertainment domains
+* Experience launching and scaling mobile products, with a growth mindset and fluency in GTM best practices
+* Comfort working in 0→1 environments - capable of independently generating new Ideas, designing systems and experiences, and building prototypes
+* Strong understanding of the GenAI stack - from prompt engineering to model selection to evaluation techniques
+* Track record of working with ML/Data Science teams on model training and deployment for consumer-facing features like recommendation systems
+* Creative, empathetic, and excited by products that make people feel something
+* Bonus: background in product design, AI research/deployment, or software engineering (especially in mobile, real-time, or expressive media) 
+Why Join Us
+* Shape the soul of a product that blends AI, emotion, and play
+* Work with a world-class, multidisciplinary team inside EA’s Ventures group
+* Invent new experiences at the intersection of storytelling, character, and real-time technology
+* Help define the future of human-AI collaboration — from the inside
+COMPENSATION AND BENEFITS
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). 
+PAY RANGES
+* California (depending on location e.g. Los Angeles vs. San Francisco) *$160,600 - $249,300 USD
+In the US, we offer a package of benefits including paid time off (3 weeks per year to start), 80 hours per year of sick time, 16 paid company holidays per year, 10 weeks paid time off to bond with baby, medical/dental/vision insurance, life insurance, disability insurance, and 401(k) to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+
+
+About Electronic Arts
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+
+
+
+
+Product Manager - EA Sports FC
+* 		Home Open Roles Role Detail
+
+General Information
+Locations
+: Vancouver, British Columbia, Canada 
+Role ID 
+210323
+Worker Type 
+Regular Employee
+Studio/Department 
+EA Studios - SPORTS
+Work Model 
+Hybrid
+
+Description & Requirements
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games.
+With more opportunity than ever to innovate and create new, authentic experiences that bring joy, inclusivity, and immersion to a global community of fans, we invite you to join us and pioneer the future of Soccer with EA SPORTS!
+
+This Role 
+The purpose of the FC Live Product Management Acquisition & Retention team is to grow the love of EA SPORTS FC by creating new fans and guiding them from their first match to lifelong fandom.
+
+This role will focus on how we grow EA SPORTS FC by acquiring new & returning fans to the latest title and helping them find their fun in the right mode that fits their playstyle. In addition you’ll help establish fans in EA SPORTS FC by continuously removing early barriers so that new & returning fans are excited to come back for their next session.
+
+This role will play an integral role in defining what user acquisition journeys look like today as well as defining the opportunity space for what user acquisition journeys could look like in the future. 
+
+What you’ll do: 
+* Action the latest player data from in-game sources to continually improve the early player experience through live content in the current & future FC titles. 
+* Engage with development stakeholders to establish, align & deliver a roadmap of features that improves the early player experience.
+* Champion Live Service requirements through the development process to ensure new features are Live Service ready at launch. 
+* Partner with a range of development teams to create Feature Goals & KPIs that are outcome-based. Measure performance through the lifecycle of the features and communicate results post-launch to key stakeholders.
+* Collaborate with a range of development & business stakeholders to test & iterate upon future business models for future FC titles, setting the Strategic Direction & Feature Roadmap. 
+* Co-ordinate with our Product Analytics team to refine our modelling, benchmarks & targets for acquisition programs. As well as define test plans & align Analytics plan of action.
+
+What you’ll need to be successful: 
+
+* Minimum of 8 years of Product Management, Game Design or equivalent experience required (Preferably in Live Services).
+* Strong Commercial Acumen with a background in business models, pricing and financial expertise. 
+* Proactive Relationship builder across a range of technical & non-technical partners including; Production, Game Design, Analytics, Finance,Sales, Release Management, Legal,Marketing teams.
+* Excellent storyteller, that can simplify a complex data set into an easy to understand narrative for a range of technical & non-tecnical stakeholders.
+* A track record of delivering operational feature & content plans by partnering with domain experts.
+* Experience defining long term business needs, conducting testing plans to inform prioritizing the right features at the right time, communicating them through easy to understand roadmaps. 
+* Dealing with ambiguity well, as you establish goals and drive stakeholders towards progress in currently undefined opportunity spaces. 
+
+What will help you stand out: 
+* Previous experience in PC or Mobile gaming. 
+* A Football or EA SPORTS FC fan. 
+* An understanding, or willingness to learn key FC systems and their impact on the game economy. 
+* Clear & effective communicator across a range of stakeholders & seniority. 
+* Ability to turn external best practices & internal data into a roadmap of deliverable features 
+* Passion for continuous improvement and integrating PM best practices & industry standards
+* Experience with AB testing models and data for the purposes of player facing design and statistical analysis. 
+
+
+COMPENSATION AND BENEFITS
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). 
+PAY RANGES
+* British Columbia (depending on location e.g. Vancouver vs. Victoria) *$119,600 - $167,300 CAD
+In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+
+
+About Electronic Arts
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+
+
+Senior Product Manager - Creative Innovation
+* 		Home Open Roles Role Detail
+
+General Information
+Locations
+: Vancouver, British Columbia, Canada 
+Role ID 
+210365
+Worker Type 
+Regular Employee
+Studio/Department 
+CT - Creative Innovation
+Work Model 
+Hybrid
+
+Description & Requirements
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+Locations: Vancouver, BC 
+Can this position be remote?: No
+
+Central Technology is a dynamic community of experts, innovators, and change-makers united by a single, shared vision: To revolutionize interactive entertainment and inspire creativity through transformative technology. Our industry-leading services and solutions are developed collaboratively with teams across EA to enhance creativity and improve outcomes for our partners and players.
+The Creative Innovation team within the Central Technology organization is the driving force behind EA's cutting-edge research, 3rd-party partnerships, and content creation technologies. From AI-powered tools for character animation to groundbreaking world-building systems, this team researches, innovates, and integrates transformative technologies into creative workflows. By joining Creative Innovation, you'll work at the intersection of creativity, technology, and design solutions that redefine immersive gaming experiences. If you're looking for a team that combines the agility of a startup with the impact of a global AAA, then we're looking for you.
+Our team within Creative Innovation pioneers the development of custom tools incorporating procedural and machine learning technologies to empower content creators to create compelling games. You will be a senior member of this team, reporting to the Director of Product, working with a multi-disciplinary team to build and deliver novel tools and workflows. 
+This role is hybrid remote/in-office and you will work from our Vancouver/Burnaby office.
+Responsibilities:
+* Define and guide the product strategy for technology solutions used by 3D content creators, in partnership with multiple game teams. This requires an understanding of technical art and art workflows in game development
+* Collaborate with a diverse team of TAs, SEs, DDs, UX Designers and others by promoting a compelling vision and driving implementation
+* Set clear objectives and key results (OKRs) for reporting to align team members across the organisation
+* Manage end-to-end product lifecycle, from concept through adoption
+* Guide product discovery for new game team use cases, doing customer research, data analysis and experimentation
+Qualifications:
+* 5+ years of product management experience, including at least 2+ years with scope of influence across different teams
+* Experience defining and delivering product strategy for tools used by game development content creators, specifically in environment, world or level building
+* Experience communicating complex technical concepts to a variety of audiences, with a history of influencing senior leaders in art or technical art
+* Experience using data and insights to inform product development with the ability to map vision to data-driven results
+* Bonus: experience with creative content pipelines, games industry experience and/or procedural techniques and tools
+COMPENSATION AND BENEFITS
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). 
+PAY RANGES
+* British Columbia (depending on location e.g. Vancouver vs. Victoria) *$119,600 - $167,300 CAD
+In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+
+
+About Electronic Arts
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
