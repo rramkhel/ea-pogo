@@ -62,6 +62,18 @@ export default function Header() {
                 Strategy
               </Link>
             </li>
+            <li>
+              <Link
+                to="/lets-talk"
+                className={`text-sm font-medium px-4 py-2 rounded-full transition-all ${
+                  isActive('/lets-talk')
+                    ? 'text-pogo-yellow bg-pogo-yellow/10'
+                    : 'text-gray-300 hover:text-pogo-yellow hover:bg-pogo-yellow/10'
+                }`}
+              >
+                Let's Talk
+              </Link>
+            </li>
           </ul>
         </div>
       </div>

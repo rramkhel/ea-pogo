@@ -6,6 +6,7 @@ import AIRecommendations from './pages/AIRecommendations';
 import Dashboard from './pages/Dashboard';
 import Strategy from './pages/Strategy';
 import Presentation from './pages/Presentation';
+import LetsTalk from './pages/LetsTalk';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/strategy" element={<Strategy />} />
             <Route path="/presentation" element={<Presentation />} />
+            <Route path="/lets-talk" element={<LetsTalk />} />
           </Routes>
         </main>
         <Footer />
