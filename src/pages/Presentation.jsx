@@ -464,7 +464,7 @@ export default function PogoPresentation() {
                 <div>
                   <div className="font-bold text-gray-900 mb-3">Success Criteria</div>
                   <p className="text-gray-700 text-sm">
-                    If >20% churn reduction → roll to casual segment (1.8M) → full platform. 
+                    If &gt;20% churn reduction → roll to casual segment (1.8M) → full platform.
                     Add advanced features: daily challenges, friend recs, cross-game progression.
                   </p>
                 </div>
@@ -665,7 +665,7 @@ export default function PogoPresentation() {
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle size={18} className="text-green-600 flex-shrink-0 mt-0.5" />
-                  <span className="text-sm">If >20% churn reduction → build full rollout plan</span>
+                  <span className="text-sm">If &gt;20% churn reduction → build full rollout plan</span>
                 </li>
               </ul>
             </div>

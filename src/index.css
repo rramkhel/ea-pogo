@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  @apply bg-gradient-to-br from-pogo-darkBlue to-pogo-navy text-white;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}

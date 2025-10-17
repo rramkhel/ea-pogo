@@ -676,7 +676,7 @@ export default function PogoGameRecommender() {
                 <strong>Decision:</strong> Track prediction distribution drift, feature drift, and outcome metrics in real-time.
               </p>
               <p className="text-sm text-gray-600 mt-2">
-                <strong>Rationale:</strong> Catch model degradation early (seasonal changes, game updates, player behavior shifts). Auto-trigger retraining when accuracy drops >5%.
+                <strong>Rationale:</strong> Catch model degradation early (seasonal changes, game updates, player behavior shifts). Auto-trigger retraining when accuracy drops &gt;5%.
               </p>
             </div>
           </div>

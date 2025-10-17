@@ -512,7 +512,7 @@ export default function PogoProductStrategy() {
                 </div>
                 <div className="bg-gray-50 rounded-lg p-4">
                   <div className="font-semibold text-gray-900 mb-1">Scale Criteria</div>
-                  <p className="text-gray-600">If >20% churn reduction → roll to casual (1.8M) → full platform</p>
+                  <p className="text-gray-600">If &gt;20% churn reduction → roll to casual (1.8M) → full platform</p>
                 </div>
               </div>
             </div>
